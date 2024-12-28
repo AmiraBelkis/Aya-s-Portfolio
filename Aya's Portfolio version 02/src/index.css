@@ -1,0 +1,36 @@
+:root {
+ --bg-content: rgba(248, 255, 247, 0.05);
+ --dark-color: #282F37;
+ --primary-color: #FF6B6B;
+ --light-color:#F8FFF7;
+}
+
+a {
+ 
+}
+a:hover {
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: Fira Code;
+  font-size: 54.4px;
+  font-weight: 500;
+  line-height: 75px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  
+}
+
+button {
+ 
+}
+button:hover {
+}
+button:focus,
+button:focus-visible {
+}

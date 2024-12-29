@@ -1,6 +1,6 @@
 const ContactMeBtn = ({ children, link }) => {
     return (
-        <a className="btn-secondary" role="button" href={link}>
+        <a className="btn btn-secondary" role="button" href={link}>
             {children}
         </a>
     );

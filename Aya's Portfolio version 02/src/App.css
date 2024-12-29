@@ -3,6 +3,27 @@
     color: var(--primary-color) !important;
 }
 
+
+.btn-secondary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 1.1rem;
+
+    border: 2px solid var(--primary-color);
+    border-radius: 5px;
+
+    color: var(--font-color);
+    text-decoration: none;
+
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-secondary:hover {
+    background-color: rgba(var(--primary-color-rgb), .1);
+}
+
 /* Menu section */
 .menu {
     background-color: transparent;

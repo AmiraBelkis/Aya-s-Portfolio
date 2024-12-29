@@ -5,12 +5,14 @@
   --light-color: #F8FFF7;
   --font: Fira Code, 'Segoe UI', Geneva, sans-serif;
   --font-color: #FFFFFF;
+
+  --primary-color-rgb: 255, 107, 107;
 }
 
 * {
   margin: 0;
   padding: 0;
-  /* border: #FF6B6B solid 1px; */
+  /* border: red solid 1px; */
 }
 
 body {

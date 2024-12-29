@@ -105,3 +105,13 @@
     line-height: 40px;
     text-align: end;
 }
+
+/* About Section  */
+.about-content {
+    margin-bottom: 1.8rem;
+
+    font-family: var(--font);
+    font-size: 18px;
+    line-height: 40px;
+    text-align: left;
+}

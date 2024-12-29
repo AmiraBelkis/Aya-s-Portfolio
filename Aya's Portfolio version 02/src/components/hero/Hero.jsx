@@ -5,7 +5,7 @@ import DownloadBtn from './DownloadBtn';
 const Hero = () => {
     return (
         <>
-            <div className="hero-section">
+            <div className="hero-section" id="home">
                 <h1 className="title-hero">
                     Hi! I’m Aya <span className="text-primary">Ahlam</span>  Feliachi,
                     a <span className="text-primary">Digital Designer</span>.

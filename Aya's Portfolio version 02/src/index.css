@@ -23,5 +23,6 @@ body {
 }
 
 #root {
+  padding: .3rem 4.2rem;
   background-color: var(--bg-content);
 }

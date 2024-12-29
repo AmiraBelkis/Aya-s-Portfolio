@@ -12,7 +12,7 @@ const Hero = () => {
                 </h1>
                 <h3 className="sub-title-hero">"Design is not just what it looks like and feels like. Design is how it works."
                     <br />  – Steve Jobs</h3>
-                <Row className='w-50 gap-5 mb-5'>
+                <Row className='w-50 mb-5 justify-content-evenly'>
                     <Col xs={5} className='p-0'>
                         <ContactMeBtn link="#contact">Contact Me</ContactMeBtn>
                     </Col>

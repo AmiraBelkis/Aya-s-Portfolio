@@ -41,6 +41,22 @@
     background-color: rgba(var(--primary-color-rgb), .15) !important;
 }
 
+
+.title {
+    font-family: var(--font);
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 75px;
+    text-align: center;
+}
+
+.title-separator {
+    opacity: 1;
+    background-color: var(--primary-color);
+    color: var(--primary-color);
+    height: 1px;
+}
+
 /* Menu section */
 .menu {
     background-color: transparent;

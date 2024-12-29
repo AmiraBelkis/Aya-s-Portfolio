@@ -16,19 +16,10 @@
 body {
   background-color: var(--dark-color);
   font-family: var(--font);
+  color: var(--font-color);
   padding: 0 8.5%;
 }
 
 #root {
   background-color: var(--bg-content);
-}
-
-h1 {
-  font-family: var(--font);
-  font-size: 54.4px;
-  font-weight: 500;
-  line-height: 75px;
-  text-align: center;
-  text-underline-position: from-font;
-  text-decoration-skip-ink: none;
 }

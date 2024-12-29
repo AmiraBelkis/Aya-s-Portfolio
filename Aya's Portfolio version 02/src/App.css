@@ -1,0 +1,23 @@
+/* Menu section */
+.menu {
+    background-color: transparent;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu a {
+    color: var(--font-color);
+    font-size: .85rem;
+    font-weight: 450;
+    text-align: center;
+    text-decoration: none;
+
+    padding: 1.5rem;
+}
+
+.menu a:hover,
+.menu a.active {
+    color: var(--primary-color);
+}

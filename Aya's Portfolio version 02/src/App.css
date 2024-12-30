@@ -115,3 +115,31 @@
     line-height: 40px;
     text-align: left;
 }
+
+/* Projects Section  */
+.card-project {
+    margin: 3.9rem 1.2rem;
+    border: 1px solid rgba(255, 255, 255, .55);
+}
+
+.card-header {
+    border-bottom: 1px solid rgba(255, 255, 255, .55);
+    padding: 1.2rem;
+}
+
+.card-header h1 {
+    width: 100%;
+    text-align: center;
+    font-family: var(--font);
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 75px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.9rem;
+    padding: 1.2rem;
+}

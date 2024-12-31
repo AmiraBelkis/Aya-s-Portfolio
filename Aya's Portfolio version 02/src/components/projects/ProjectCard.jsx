@@ -1,4 +1,6 @@
-const ProjectsCard = ({ header, title, img, description }) => {
+import { projectsAssetsLocation } from "../../utils/constants"
+
+const ProjectCard = ({ header, title, img, description }) => {
     return (
         <div className="card-project">
             <div className="card-header">
@@ -6,11 +8,11 @@ const ProjectsCard = ({ header, title, img, description }) => {
             </div>
             <div className="card-body">
                 <h3 className="w-100"> <span className="text-primary"> - </span> {title}</h3>
-                <img className="w-75" src={`/src/assets/${img}`} alt="Project image" />
+                <img className="w-75" src={`${projectsAssetsLocation}/images/${img}`} alt="Project image" />
                 <p className="text-center">{description}</p>
             </div>
         </div>
     )
 }
 
-export default ProjectsCard
+export default ProjectCard

@@ -8,7 +8,7 @@ const ProjectCard = ({ header, title, img, description }) => {
             </div>
             <div className="card-body">
                 <h3 className="w-100"> <span className="text-primary"> - </span> {title}</h3>
-                <img className="w-75" src={`${projectsAssetsLocation}/images/${img}`} alt="Project image" />
+                <img className="w-75" src={`${projectsAssetsLocation}/images/${img}`} alt={`Project -${title}`} />
                 <p className="text-center">{description}</p>
             </div>
         </div>

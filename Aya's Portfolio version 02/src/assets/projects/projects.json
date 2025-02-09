@@ -14,6 +14,65 @@
             "title": " Game assets modeling ",
             "img": "modeling-game-2.png",
             "description": "Created game assets for 'Chronobot: Journey Through History' as a 3D modeler with UnitDash during the GDG Algiers Game Jam, where we secured first place."
+        },
+        {
+            "title": " 3D Animation ",
+            "img": "bity.png",
+            "description": "Contributed as a Unity animator for the game 'Bity' as part of the Fun Activities section during the Chesstin Chess League, hosted by Bytecraft."
+        }
+    ],
+    "UI/ UX Design": [
+        {
+            "title": " Baridi Trust ",
+            "img": "baridiTrust.png",
+            "description": "Designed the UI for Baridi Trust, an escrow service payment extension, created during the Algérie Post hackathon Innovpost, where we secured first place."
+        },
+        {
+            "title": " Ta’ajeer ",
+            "img": "taajeer.png",
+            "description": "Designed the UI for Ta’ajeer, an app for housing rental, as a part of my 3rd year project at ESTIN."
+        },
+        {
+            "title": " Sortify ",
+            "img": "sortify.png",
+            "description": "Designed the UI for Sortify, a statistics desktop app for recycling companies, during the BrainOn ideathon hosted by School of AI Bejaia, where we secured second place."
+        },
+        {
+            "title": " Earth Scope ",
+            "img": "earthScope.png",
+            "description": "Designed the UI for EarthScope, an online encyclopedia for natural disasters, as part of a technical interview."
+        },
+        {
+            "title": " Know Your Pet ",
+            "img": "knowYourPet.png",
+            "description": "Designed the UI for 'KNOW YOUR PET,' an educational quiz game that helps kids learn fun facts about pets."
+        },
+        {
+            "title": " ESTIN BIB ",
+            "img": "EstinBib.png",
+            "description": "Collaboratively designed the UI for ESTIN Bib, a repository of educational resources for ESTIN, as part of the UI/UX department of the GDSC ESTIN club."
+        },
+        {
+            "title": " UniBeat ",
+            "img": "UniBeat.png",
+            "description": "Designed the UI for UniBeat, a music production and plagiarism analysis application, as part of the first edition of Ideatech, an ideathon hosted by Bytecraft."
+        }
+    ],
+    "Graphic Design": [
+        {
+            "title": " Dining Room ",
+            "img": "diningRoom.png",
+            "description": "Redesigned the menu for Dining Room restaurant as a freelance project, focusing on modernizing the aesthetic and enhancing readability."
+        },
+        {
+            "title": " Starbucks Msila ",
+            "img": "starbucks.png",
+            "description": "Worked as a graphic designer for a local shop named Starbucks M'sila, creating visually appealing designs to enhance branding and customer engagement."
+        },
+        {
+            "title": " Nexus Cybersecurity Club Design Manager ",
+            "img": "nexus.png",
+            "description": "Design Department Manager for the 2024/2025 season at Nexus Cybersecurity Club, based in ESTIN."
         }
     ]
 }

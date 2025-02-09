@@ -21,7 +21,7 @@ jobs:
         node-version: '20.x'
 
     - name: Install dependencies
-      working-directory: 'Aya''s Portfolio version 02'
+      working-directory: "Aya's Portfolio version 02"
       run: npm ci
 
     - name: Build application

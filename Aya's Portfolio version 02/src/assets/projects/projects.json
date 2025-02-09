@@ -1,0 +1,19 @@
+{
+    "3D Design / Animation": [
+        {
+            "title": " Character Modeling ",
+            "img": "modeling.png",
+            "description": " 3D characters modeling focused on creating detailed,animated and game-ready characters for interactive environments. "
+        },
+        {
+            "title": " Game assets modeling ",
+            "img": "modeling-game.png",
+            "description": "Created game assets for 'Press Start' as a 3D modeler with UnitDash during our game dev workshop series at ESTIN."
+        },
+        {
+            "title": " Game assets modeling ",
+            "img": "modeling-game-2.png",
+            "description": "Created game assets for 'Chronobot: Journey Through History' as a 3D modeler with UnitDash during the GDG Algiers Game Jam, where we secured first place."
+        }
+    ]
+}

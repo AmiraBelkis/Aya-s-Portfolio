@@ -1,5 +1,6 @@
 import Title from "../Title"
 import ProjectSlider from "./ProjectSlider"
+import projectsData from "../../assets/projects/projects.json"
 
 const Projects = () => {
     return (
@@ -7,7 +8,15 @@ const Projects = () => {
             <Title>
                 Projects
             </Title>
-            <ProjectSlider></ProjectSlider>
+            {
+                Object.entries(projectsData).map(([projectType, projects]) => (
+                    <ProjectSlider
+                        key={projectType}
+                        projectType={projectType}
+                        projects={projects}
+                    />
+                ))
+            }
         </div>
     )
 }

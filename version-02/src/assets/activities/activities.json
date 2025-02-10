@@ -2,41 +2,41 @@
     {
         "img": "brainOn.png",
         "title": "BrainOn",
-        "description": "Participated in the event “BrainOn” in its 1st edition, won the 2nd place. BrainOn is an ideathon in which particpants create a solution with its prototype for a specific problem while integrating the technologies of AI."
+        "description": "Participated in the 1st edition of BrainOn, an ideathon focused on creating innovative solutions using AI technologies. Developed a prototype to address a specific problem and secured 2nd place in the competition."
     },
     {
         "img": "pressStart.png",
         "title": "PressStart",
-        "description": "PressStart is a workshop dedicated to teaching the basis of Game Development held in ESTIN - Bejaia , in this event I shared my experience with my fellow students on how to start with Unity's Animation system."
+        "description": "Hosted a workshop at ESTIN - Bejaia titled PressStart, aimed at teaching the basics of Game Development. Shared my experience with Unity's Animation system to help students start their game development journey."
     },
     {
         "img": "GDSC.png",
         "title": "Game Jam",
-        "description": "Participated in the event “GDG Algeirs Game Jam” in its 1st edition as a 3d modeler alongside my team UnitDash, we ended up by winning the 1st place."
+        "description": "Competed in the 1st edition of GDG Algiers Game Jam as a 3D modeler with my team, UnitDash. Collaborated to create a game prototype, leading the team to win 1st place in the competition."
     },
     {
         "img": "ideathon.png",
         "title": "IdeaTech",
-        "description": "Participated in the event “IdeaTech” in its 2nd edition, which is an ideathon meant to bring together different teams of creative students in the span of two days to make creative digital designs that solve a specific problem."
+        "description": "Participated in the 2nd edition of IdeaTech, a two-day ideathon where creative students design digital solutions for real-world problems. Contributed to a team project showcasing innovative problem-solving."
     },
     {
         "img": "GDSC.png",
-        "title": "Google Developer Student",
-        "description": "Google Developer Student Club ESTIN is a local community of passionate developers and motivated young students organizing various technical activities and events about technologies. Where I was a member of the UI/UX Design Department. And Contributed to the ESTIN bib website project."
+        "title": "GDG Student",
+        "description": "Member of the Google Developer Student Club (GDSC) ESTIN, part of the UI/UX Design Department. Contributed to the ESTIN Bib website project, a community for developers and students organizing technical events."
     },
     {
         "img": "byteCraft.png",
         "title": "ByteCraft",
-        "description": "ByteCraft is an ESTIN club that focuses mainly on computer science fields. Where I was Game Developer / 3D Designer and animator at UnitDash Department."
+        "description": "Served as a Game Developer and 3D Designer/Animator at UnitDash, a department within ByteCraft, an ESTIN club focused on computer science fields and fostering creativity in technology."
     },
     {
         "img": "starbucksMsila.png",
         "title": "Starbucks M’sila",
-        "description": "A Graphic Designer at CoffeeShop called Starbucks M’sila CoffeeShop in 2022."
+        "description": "Worked as a Graphic Designer for Starbucks M’sila CoffeeShop in 2022, creating designs to enhance the brand’s presence and improve customer experience."
     },
     {
         "img": "unitDash.png",
         "title": "UnitDash",
-        "description": "An active 3d modeler in the Game Development Group Unitdash."
+        "description": "Actively contributed as a 3D Modeler in UnitDash, a Game Development group focused on creating immersive gaming experiences through innovative design and development."
     }
 ]

@@ -2,7 +2,7 @@ import { projectsAssetsLocation } from "../../utils/constants"
 
 const ProjectCard = ({ header, title, img, description }) => {
     return (
-        <div className="card-project">
+        <div className="card-custom">
             <div className="card-header">
                 <h1>{header}</h1>
             </div>

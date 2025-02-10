@@ -1,0 +1,42 @@
+[
+    {
+        "img": "brainOn.png",
+        "title": "BrainOn",
+        "description": "Participated in the event “BrainOn” in its 1st edition, won the 2nd place. BrainOn is an ideathon in which particpants create a solution with its prototype for a specific problem while integrating the technologies of AI."
+    },
+    {
+        "img": "pressStart.png",
+        "title": "PressStart",
+        "description": "PressStart is a workshop dedicated to teaching the basis of Game Development held in ESTIN - Bejaia , in this event I shared my experience with my fellow students on how to start with Unity's Animation system."
+    },
+    {
+        "img": "GDSC.png",
+        "title": "Game Jam",
+        "description": "Participated in the event “GDG Algeirs Game Jam” in its 1st edition as a 3d modeler alongside my team UnitDash, we ended up by winning the 1st place."
+    },
+    {
+        "img": "ideathon.png",
+        "title": "IdeaTech",
+        "description": "Participated in the event “IdeaTech” in its 2nd edition, which is an ideathon meant to bring together different teams of creative students in the span of two days to make creative digital designs that solve a specific problem."
+    },
+    {
+        "img": "GDSC.png",
+        "title": "Google Developer Student",
+        "description": "Google Developer Student Club ESTIN is a local community of passionate developers and motivated young students organizing various technical activities and events about technologies. Where I was a member of the UI/UX Design Department. And Contributed to the ESTIN bib website project."
+    },
+    {
+        "img": "byteCraft.png",
+        "title": "ByteCraft",
+        "description": "ByteCraft is an ESTIN club that focuses mainly on computer science fields. Where I was Game Developer / 3D Designer and animator at UnitDash Department."
+    },
+    {
+        "img": "starbucksMsila.png",
+        "title": "Starbucks M’sila",
+        "description": "A Graphic Designer at CoffeeShop called Starbucks M’sila CoffeeShop in 2022."
+    },
+    {
+        "img": "unitDash.png",
+        "title": "UnitDash",
+        "description": "An active 3d modeler in the Game Development Group Unitdash."
+    }
+]

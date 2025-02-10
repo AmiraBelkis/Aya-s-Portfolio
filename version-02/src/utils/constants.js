@@ -7,3 +7,4 @@ export const menuItems = [
 ];
 
 export const projectsAssetsLocation = '/src/assets/projects';
+export const activitiesAssetsLocation = '/src/assets/activities';

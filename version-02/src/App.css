@@ -116,18 +116,18 @@
     text-align: left;
 }
 
-/* Projects Section  */
-.card-project {
+/* Cards Section  */
+.card-custom {
     margin: 3.9rem 1.2rem;
     border: 1px solid rgba(255, 255, 255, .55);
 }
 
-.card-header {
+.card-custom .card-header {
     border-bottom: 1px solid rgba(255, 255, 255, .55);
     padding: 1.2rem;
 }
 
-.card-header h1 {
+.card-custom h1 {
     width: 100%;
     text-align: center;
     font-family: var(--font);
@@ -136,10 +136,14 @@
     line-height: 75px;
 }
 
-.card-body {
+.card-custom .card-body {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 1.9rem;
     padding: 1.2rem;
+}
+
+.activities-grid-template {
+    grid-template-columns: repeat(2, 1fr);
 }

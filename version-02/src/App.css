@@ -58,13 +58,18 @@
 }
 
 /* Menu section */
+
 .menu {
-    background-color: transparent;
+    position: sticky;
+    top: 0%;
+    background-color: var(--bg-content-bold);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    z-index: 99;
 }
+
 
 .menu a {
     color: var(--font-color);

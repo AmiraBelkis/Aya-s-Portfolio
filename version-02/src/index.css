@@ -1,5 +1,6 @@
 :root {
   --bg-content: rgba(248, 255, 247, 0.05);
+  --bg-content-bold: #333a41;
   --dark-color: #282F37;
   --primary-color: #FF6B6B;
   --light-color: #F8FFF7;

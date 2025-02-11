@@ -1,6 +1,6 @@
 import Title from "../Title"
 import ProjectSlider from "./ProjectSlider"
-import projectsData from "../../assets/projects/projects.json"
+import projectsData from "../../assets/data/projects.json"
 
 const Projects = () => {
     return (

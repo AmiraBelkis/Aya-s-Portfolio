@@ -1,6 +1,6 @@
 import Title from "../Title"
 import ActivitiesCard from "./ActivitiesCard"
-import activitiesData from "../../assets/activities/activities.json"
+import activitiesData from "../../assets/data/activities.json"
 
 
 const Activities = () => {

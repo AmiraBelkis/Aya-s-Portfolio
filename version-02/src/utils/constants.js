@@ -6,5 +6,6 @@ export const menuItems = [
     { title: 'Contact Me', link: '/#contact' }
 ];
 
-export const projectsAssetsLocation = '/src/assets/projects';
-export const activitiesAssetsLocation = '/src/assets/activities';
+export const projectsAssetsLocation = '/projects';
+
+export const activitiesAssetsLocation = '/activities';
